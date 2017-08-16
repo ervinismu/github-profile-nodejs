@@ -12,5 +12,5 @@ info and print out to terminal
 ## TODO
 - Connect Github API [x]
 - Read the data [x]
-- Parse the data
+- Parse the data [x]
 - Print the data out

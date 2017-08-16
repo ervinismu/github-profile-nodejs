@@ -27,10 +27,13 @@ const request = https.request(options, (response) => {
     })
     response.on('end', () => {
         // console.log(typeof body) for check type data body
-        console.log(body)
+        // TODO: Parse the data [x]
+        // Convert string to JSON
+        const profile = JSON.parse(body)
+        console.log(profile.avatar_url)
     })
-    // TODO: Parse the data
-    // Convert string to JSON
+
+
     // TODO: Print the data out
 })
 
