@@ -30,11 +30,10 @@ const request = https.request(options, (response) => {
         // TODO: Parse the data [x]
         // Convert string to JSON
         const profile = JSON.parse(body)
-        console.log(profile.avatar_url)
+        // TODO: Print the data out [x]
+        // console.log(profile.login + 'ows ' + profile.public)
+        console.log(`${profile.login} owns ${profile.public_repos} repo(s).`)
     })
-
-
-    // TODO: Print the data out
 })
 
 request.end()

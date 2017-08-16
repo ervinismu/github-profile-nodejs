@@ -10,7 +10,7 @@ info and print out to terminal
 // variabel berubah dengan let unntuk node v 6 keatas  
 
 ## TODO
-- Connect Github API [x]
-- Read the data [x]
-- Parse the data [x]
-- Print the data out
+- [x] Connect Github API
+- [x] Read the data
+- [x] Parse the data
+- [x] Print the data out
