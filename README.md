@@ -1,5 +1,8 @@
 # GITHUB Profile
 
+## ervinismu | social.ervin@gmail.com
+## Hacktiv8 meetup 
+
 Problem look github profile
 Solution use nodejs to github api get file 
 info and print out to terminal
