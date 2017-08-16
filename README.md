@@ -9,8 +9,16 @@ info and print out to terminal
 // variabel tetap dengan const  
 // variabel berubah dengan let unntuk node v 6 keatas  
 
+## Install
+- Nodejs || v 6.+
+
 ## TODO
 - [x] Connect Github API
 - [x] Read the data
 - [x] Parse the data
 - [x] Print the data out
+
+## Example
+In Terminal change directory to folder and write,  
+node app.js {username} {username}  
+node app.js ervinismu
