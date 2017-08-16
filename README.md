@@ -5,12 +5,7 @@
 
 Problem look github profile
 Solution use nodejs to github api get file 
-info and print out to terminal
-
-// var , let , const  
-// lebih baik menggunakkan let dan cons  
-// variabel tetap dengan const  
-// variabel berubah dengan let unntuk node v 6 keatas  
+info and print out to terminal 
 
 ## Install
 - Nodejs || v 6.+
@@ -25,3 +20,9 @@ info and print out to terminal
 In Terminal change directory to folder and write,  
 node app.js {username} {username}  
 node app.js ervinismu
+
+## Notes
+// var , let , const  
+// lebih baik menggunakkan let dan cons  
+// variabel tetap dengan const  
+// variabel berubah dengan let unntuk node v 6 keatas 
